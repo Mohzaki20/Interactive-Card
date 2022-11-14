@@ -101,7 +101,7 @@
 
 /* start Form */
 .container .form {
-    flex: 2;
+    flex: 1;
     position: relative;
 }
 
